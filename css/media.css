@@ -1,0 +1,302 @@
+@media ( min-width:992px) and (max-width:1199px){
+
+    .slider-content h1 {
+        font-size: 43px;
+    }
+    .header-button {
+        display: none;
+    }
+
+    .header-call-info {
+        display: none;
+    }
+
+    .about-imge img {
+        width: 396px;
+    }
+
+    .company-image img {
+        width: 435px;
+        margin-top: 114px;
+    }
+
+    .services-image img {
+        width: 451px;
+    }
+
+    .why-us-text img {
+        width: 401px;
+    }
+
+    .footer-section {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+
+    .services-tab-item li a span {
+        margin-left: 110px;
+    }
+}
+
+
+@media ( min-width:768px) and (max-width:991px){
+    .slider-content h1 {
+        font-size: 42px;
+    }
+
+    .slider-content p {
+        font-size: 18px;
+        margin-bottom: 22px;
+    }
+
+    .about-imge img {
+        margin-left: 99px;
+    }
+    .finix-text h6 {
+        color: #e73c3e;
+        font-weight: 350;
+        font-size: 18px;
+        margin-top: 41px;
+    }
+
+    .costum-text h6 {
+        text-align: center;
+    }
+    .costum-text h2 {
+        text-align: center;
+    }
+
+    .costum-text p {
+        text-align: center;
+    }
+
+    .why-us-text img {
+        margin-left: 80px;
+    }
+
+    .finix-text h6 {
+        margin-top: 0px;
+    }
+
+    .anotherdiv h2 {
+        text-align: center;
+    }
+
+    .services-image img {
+        margin-left: 65px;
+        margin-bottom: 50px;
+    }
+
+
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .slider-content h1 {
+        font-size: 35px;
+        margin-top: 4px;
+        margin-bottom: 10px;
+    }
+    .slider-content p {
+        font-size: 17px;
+    }
+
+    .client-golo {
+        display: none;
+    }
+
+    .about-imge {
+        margin-bottom: 45px;
+    }
+
+    .why-us-text img {
+        width: 451px;
+        margin-right: ;
+        margin-left: 21px;
+    }
+
+    .costum-text h2 {
+        font-size: 31px;
+        font-weight: 500;
+    }
+    .calculation-rate {
+        margin-top: 30px;
+    }
+    .calculate-text h2 {
+        font-size: 34px;
+    }
+
+    .company-image img {
+        width: 520px;
+    }
+
+    .services-tab-item li a span {
+        margin-left: 62px;
+    }
+    .services-image img {
+        width: 530px;
+    }
+}
+
+
+@media (max-width:575.99px){
+
+
+    /* banner section part */
+    .slider-content {
+        margin-left: 23px;
+    }
+    .slider-content h1 {
+        font-size: 30px;
+    }
+    .slider-content p {
+        color: #606060;
+        font-size: 14px;
+        margin-top: -13px;
+    }
+
+    .about-imge img {
+        width: 418px;
+        margin-left: 31px;
+    }
+
+    .about-inner-text {
+        display: none;
+    }
+
+    .finix-text {
+        margin-top: 36px;
+    }
+
+    .finix-text h2 {
+        font-size: 26px;
+    }
+    .finix-text p {
+        font-size: 14px;
+        line-height: 1.6;
+    }
+
+    .finix-text ul li {
+        font-size: 16px;
+
+    }
+
+   .client-golo img {
+        width: 108px;
+}
+.client-golo {
+	display: none;
+}
+
+.costum-text img {
+	width: 419px;
+}
+
+.appy-now-text h2 {
+	font-size: 20px;
+}
+
+.steap-timeline ul li p {
+	font-size: 15px;
+}
+
+.call-text h2 {
+	font-size: 22px;
+}
+
+.call-to-action-phone a {
+	font-size: 31px;
+}
+
+.call-to-action-phone span {
+	font-size: 30px;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+
+}
+
+.testimonial-image img {
+	width: 310px;
+	margin-left: 26px;
+}
+
+.anotherdiv h2 {
+	font-size: 34px;
+	margin-bottom: 28px;
+	text-align: center;
+}
+
+.line-step ul li p {
+	font-size: 15px;
+}
+
+.company-image img {
+	width: 433px;
+}
+
+.services-image img {
+	width: 400px;
+}
+.services-image {
+	margin-left: 30px;
+}
+
+.services-tab-content-text h3 {
+	font-size: 20px;
+}
+.services-tab-content-text p {
+	font-size: 15px;
+}
+
+.testimonial-content h4 {
+	font-size: 18px;
+}
+
+.footer-widget h6 {
+	font-size: 15px;
+
+}
+
+
+
+}
+@media (min-width:401px) and (max-width:465px) {
+    .about-imge img {
+        width: 354px;
+        margin-left: 12px;
+    } 
+    .costum-text img {
+        width: 330px;
+        margin-left: 20px;
+    }
+    .company-image img {
+        width: 374px;
+    }
+    .services-image img {
+        width: 320px;
+        margin-bottom: 23px;
+    }
+}
+
+@media (min-width:320px) and (max-width:400px) {
+    .about-imge img {
+        width: 230px;
+    }
+
+    .costum-text img {
+        width: 283px;
+    }
+
+    .company-image img {
+        width: 294px;
+    }
+    .services-image img {
+        width: 250px;
+    }
+
+    .testimonial-image img {
+        width: 273px;
+        margin-left: 9px;
+    }
+
+}
